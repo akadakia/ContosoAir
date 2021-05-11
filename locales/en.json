@@ -1,7 +1,7 @@
 {
     "Title": "Dynatrace Air",
 	"Home": {
-		"HeroMessage": "Where do you<br>want to go?"
+		"HeroMessage": "Where do you<br>want to go with Dynatrace?"
 	},
 	"Deals": {
 		"CitiesTitle": "Recommended for you",
@@ -21,8 +21,8 @@
     "Footer": {
         "About":{
             "Title": "ABOUT CONTOSO",
-            "Link_1": "Who we are",
-            "Link_2": "Contact us",
+            "Link_1": "Full Stack Baby",
+            "Link_2": "OneAgent",
             "Link_3": "Travel advisories",
             "Link_4": "Customer commitment",
             "Link_5": "Feedback",
