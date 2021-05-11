@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/aakashkadakia/devOpsCapstone/_apis/build/status/akadakia.ContosoAir?branchName=master)](https://dev.azure.com/aakashkadakia/devOpsCapstone/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
